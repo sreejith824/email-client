@@ -1,4 +1,4 @@
-package com.sample.tech.interview;
+package com.sample.tech;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

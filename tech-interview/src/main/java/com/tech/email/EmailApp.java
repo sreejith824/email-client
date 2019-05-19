@@ -1,4 +1,4 @@
-package com.tech.interview.email;
+package com.tech.email;
 
 import java.util.Properties;
 
@@ -12,8 +12,8 @@ import javax.mail.internet.MimeMessage.RecipientType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.dxc.tech.interview.email.domain.Email;
-import com.dxc.tech.interview.email.domain.EncryptionOption;
+import com.tech.email.domain.Email;
+import com.tech.email.domain.EncryptionOption;
 
 public class EmailApp {
 

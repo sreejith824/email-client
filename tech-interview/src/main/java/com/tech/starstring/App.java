@@ -1,4 +1,4 @@
-package com.tech.interview.starstring;
+package com.tech.starstring;
 
 /**
  * Hello world!

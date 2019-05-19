@@ -1,4 +1,4 @@
-package com.dxc.tech.interview.email.domain;
+package com.tech.email.domain;
 
 public class Email {
 	private String toAddress;
