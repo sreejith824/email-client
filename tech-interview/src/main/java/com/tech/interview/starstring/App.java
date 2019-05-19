@@ -1,4 +1,4 @@
-package com.dxc.tech.interview.starstring;
+package com.tech.interview.starstring;
 
 /**
  * Hello world!
